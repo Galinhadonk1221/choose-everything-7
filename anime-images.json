@@ -1,0 +1,2825 @@
+{
+  "anime-zeno": {
+    "name": "Zeno",
+    "baseName": "Zen-Oh",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Zen-Oh",
+      "Zeno"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-grand-priest": {
+    "name": "Grand Priest",
+    "baseName": "Grand Minister",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Grand Minister",
+      "Grand Priest"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-whis": {
+    "name": "Whis",
+    "baseName": "Whis",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Whis"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-beerus": {
+    "name": "Beerus",
+    "baseName": "Beerus",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Beerus"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-goku-ultra-instinct": {
+    "name": "Goku Ultra Instinct",
+    "baseName": "Son Goku",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Ultra Instinct",
+    "formAliases": [
+      "Mastered Ultra Instinct",
+      "Ultra Instinct",
+      "Migatte no Gokui"
+    ],
+    "queries": [
+      "Son Goku Mastered Ultra Instinct",
+      "Son Goku Ultra Instinct",
+      "Son Goku Migatte no Gokui",
+      "Goku Ultra Instinct"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-vegeta-ultra-ego": {
+    "name": "Vegeta Ultra Ego",
+    "baseName": "Vegeta",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Ultra Ego",
+    "formAliases": [
+      "Ultra Ego"
+    ],
+    "queries": [
+      "Vegeta Ultra Ego"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-gogeta-blue": {
+    "name": "Gogeta Blue",
+    "baseName": "Gogeta",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Super Saiyan Blue",
+    "formAliases": [
+      "Super Saiyan Blue",
+      "Super Saiyan God SS",
+      "SSGSS",
+      "SSB"
+    ],
+    "queries": [
+      "Gogeta Super Saiyan Blue",
+      "Gogeta Super Saiyan God SS",
+      "Gogeta SSGSS",
+      "Gogeta Blue"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-vegito-blue": {
+    "name": "Vegito Blue",
+    "baseName": "Vegito",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Super Saiyan Blue",
+    "formAliases": [
+      "Super Saiyan Blue",
+      "Super Saiyan God SS",
+      "SSGSS",
+      "SSB"
+    ],
+    "queries": [
+      "Vegito Super Saiyan Blue",
+      "Vegito Super Saiyan God SS",
+      "Vegito SSGSS",
+      "Vegito Blue"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-broly-full-power": {
+    "name": "Broly Full Power",
+    "baseName": "Broly",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Full Power Super Saiyan",
+    "formAliases": [
+      "Full Power Super Saiyan",
+      "Full Power",
+      "Legendary Super Saiyan"
+    ],
+    "queries": [
+      "Broly Full Power Super Saiyan",
+      "Broly Full Power",
+      "Broly Legendary Super Saiyan"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-jiren-full-power": {
+    "name": "Jiren Full Power",
+    "baseName": "Jiren",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Full Power",
+    "formAliases": [
+      "Full Power",
+      "Limit Breaker"
+    ],
+    "queries": [
+      "Jiren Full Power",
+      "Jiren Limit Breaker"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-black-frieza": {
+    "name": "Black Frieza",
+    "baseName": "Frieza",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Black Frieza",
+    "formAliases": [
+      "Black Frieza",
+      "Black"
+    ],
+    "queries": [
+      "Frieza Black Frieza",
+      "Frieza Black",
+      "Black Frieza"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-gohan-beast": {
+    "name": "Gohan Beast",
+    "baseName": "Gohan",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Beast",
+    "formAliases": [
+      "Gohan Beast",
+      "Beast"
+    ],
+    "queries": [
+      "Gohan Gohan Beast",
+      "Gohan Beast"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-orange-piccolo": {
+    "name": "Orange Piccolo",
+    "baseName": "Piccolo",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Orange Piccolo",
+    "formAliases": [
+      "Orange Piccolo",
+      "Orange"
+    ],
+    "queries": [
+      "Piccolo Orange Piccolo",
+      "Piccolo Orange",
+      "Orange Piccolo"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-cell-max": {
+    "name": "Cell Max",
+    "baseName": "Cell Max",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Cell Max"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-majin-buu": {
+    "name": "Majin Buu",
+    "baseName": "Majin Buu",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Majin Buu"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kid-buu": {
+    "name": "Kid Buu",
+    "baseName": "Kid Buu",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kid Buu"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-saitama": {
+    "name": "Saitama",
+    "baseName": "Saitama",
+    "franchise": "One-Punch Man",
+    "mediaHints": [
+      "One Punch Man",
+      "One-Punch Man"
+    ],
+    "fandomDomain": "onepunchman.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Saitama"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-cosmic-garou": {
+    "name": "Cosmic Garou",
+    "baseName": "Garou",
+    "franchise": "One-Punch Man",
+    "mediaHints": [
+      "One Punch Man",
+      "One-Punch Man"
+    ],
+    "fandomDomain": "onepunchman.fandom.com",
+    "form": "Cosmic Fear Mode",
+    "formAliases": [
+      "Cosmic Fear Mode",
+      "Cosmic Garou",
+      "Cosmic"
+    ],
+    "queries": [
+      "Garou Cosmic Fear Mode",
+      "Garou Cosmic Garou",
+      "Garou Cosmic",
+      "Cosmic Garou"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-blast": {
+    "name": "Blast",
+    "baseName": "Blast",
+    "franchise": "One-Punch Man",
+    "mediaHints": [
+      "One Punch Man",
+      "One-Punch Man"
+    ],
+    "fandomDomain": "onepunchman.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Blast"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-tatsumaki": {
+    "name": "Tatsumaki",
+    "baseName": "Tatsumaki",
+    "franchise": "One-Punch Man",
+    "mediaHints": [
+      "One Punch Man",
+      "One-Punch Man"
+    ],
+    "fandomDomain": "onepunchman.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Tatsumaki"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-boros": {
+    "name": "Boros",
+    "baseName": "Boros",
+    "franchise": "One-Punch Man",
+    "mediaHints": [
+      "One Punch Man",
+      "One-Punch Man"
+    ],
+    "fandomDomain": "onepunchman.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Boros"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-gojo-satoru": {
+    "name": "Gojo Satoru",
+    "baseName": "Satoru Gojo",
+    "franchise": "Jujutsu Kaisen",
+    "mediaHints": [
+      "Jujutsu Kaisen"
+    ],
+    "fandomDomain": "jujutsu-kaisen.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Satoru Gojo",
+      "Gojo Satoru"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-ryomen-sukuna": {
+    "name": "Ryomen Sukuna",
+    "baseName": "Ryomen Sukuna",
+    "franchise": "Jujutsu Kaisen",
+    "mediaHints": [
+      "Jujutsu Kaisen"
+    ],
+    "fandomDomain": "jujutsu-kaisen.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Ryomen Sukuna"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-yuta-okkotsu": {
+    "name": "Yuta Okkotsu",
+    "baseName": "Yuta Okkotsu",
+    "franchise": "Jujutsu Kaisen",
+    "mediaHints": [
+      "Jujutsu Kaisen"
+    ],
+    "fandomDomain": "jujutsu-kaisen.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Yuta Okkotsu"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kenjaku": {
+    "name": "Kenjaku",
+    "baseName": "Kenjaku",
+    "franchise": "Jujutsu Kaisen",
+    "mediaHints": [
+      "Jujutsu Kaisen"
+    ],
+    "fandomDomain": "jujutsu-kaisen.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kenjaku"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-toji-fushiguro": {
+    "name": "Toji Fushiguro",
+    "baseName": "Toji Fushiguro",
+    "franchise": "Jujutsu Kaisen",
+    "mediaHints": [
+      "Jujutsu Kaisen"
+    ],
+    "fandomDomain": "jujutsu-kaisen.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Toji Fushiguro"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-maki-zenin": {
+    "name": "Maki Zenin",
+    "baseName": "Maki Zenin",
+    "franchise": "Jujutsu Kaisen",
+    "mediaHints": [
+      "Jujutsu Kaisen"
+    ],
+    "fandomDomain": "jujutsu-kaisen.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Maki Zenin"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-yuji-itadori": {
+    "name": "Yuji Itadori",
+    "baseName": "Yuji Itadori",
+    "franchise": "Jujutsu Kaisen",
+    "mediaHints": [
+      "Jujutsu Kaisen"
+    ],
+    "fandomDomain": "jujutsu-kaisen.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Yuji Itadori"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-mahoraga": {
+    "name": "Mahoraga",
+    "baseName": "Mahoraga",
+    "franchise": "Jujutsu Kaisen",
+    "mediaHints": [
+      "Jujutsu Kaisen"
+    ],
+    "fandomDomain": "jujutsu-kaisen.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Mahoraga"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-tanjiro-kamado": {
+    "name": "Tanjiro Kamado",
+    "baseName": "Tanjiro Kamado",
+    "franchise": "Demon Slayer",
+    "mediaHints": [
+      "Kimetsu no Yaiba",
+      "Demon Slayer"
+    ],
+    "fandomDomain": "kimetsu-no-yaiba.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Tanjiro Kamado"
+    ],
+    "strict": true,
+    "allowGenericWeb": false,
+    "local": "/assets/tanjiro.png"
+  },
+  "anime-yoriichi-tsugikuni": {
+    "name": "Yoriichi Tsugikuni",
+    "baseName": "Yoriichi Tsugikuni",
+    "franchise": "Demon Slayer",
+    "mediaHints": [
+      "Kimetsu no Yaiba",
+      "Demon Slayer"
+    ],
+    "fandomDomain": "kimetsu-no-yaiba.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Yoriichi Tsugikuni"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-muzan-kibutsuji": {
+    "name": "Muzan Kibutsuji",
+    "baseName": "Muzan Kibutsuji",
+    "franchise": "Demon Slayer",
+    "mediaHints": [
+      "Kimetsu no Yaiba",
+      "Demon Slayer"
+    ],
+    "fandomDomain": "kimetsu-no-yaiba.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Muzan Kibutsuji"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kokushibo": {
+    "name": "Kokushibo",
+    "baseName": "Kokushibo",
+    "franchise": "Demon Slayer",
+    "mediaHints": [
+      "Kimetsu no Yaiba",
+      "Demon Slayer"
+    ],
+    "fandomDomain": "kimetsu-no-yaiba.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kokushibo"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-doma": {
+    "name": "Doma",
+    "baseName": "Doma",
+    "franchise": "Demon Slayer",
+    "mediaHints": [
+      "Kimetsu no Yaiba",
+      "Demon Slayer"
+    ],
+    "fandomDomain": "kimetsu-no-yaiba.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Doma"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-akaza": {
+    "name": "Akaza",
+    "baseName": "Akaza",
+    "franchise": "Demon Slayer",
+    "mediaHints": [
+      "Kimetsu no Yaiba",
+      "Demon Slayer"
+    ],
+    "fandomDomain": "kimetsu-no-yaiba.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Akaza"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-zenitsu-agatsuma": {
+    "name": "Zenitsu Agatsuma",
+    "baseName": "Zenitsu Agatsuma",
+    "franchise": "Demon Slayer",
+    "mediaHints": [
+      "Kimetsu no Yaiba",
+      "Demon Slayer"
+    ],
+    "fandomDomain": "kimetsu-no-yaiba.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Zenitsu Agatsuma"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-inosuke-hashibira": {
+    "name": "Inosuke Hashibira",
+    "baseName": "Inosuke Hashibira",
+    "franchise": "Demon Slayer",
+    "mediaHints": [
+      "Kimetsu no Yaiba",
+      "Demon Slayer"
+    ],
+    "fandomDomain": "kimetsu-no-yaiba.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Inosuke Hashibira"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-gyomei-himejima": {
+    "name": "Gyomei Himejima",
+    "baseName": "Gyomei Himejima",
+    "franchise": "Demon Slayer",
+    "mediaHints": [
+      "Kimetsu no Yaiba",
+      "Demon Slayer"
+    ],
+    "fandomDomain": "kimetsu-no-yaiba.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Gyomei Himejima"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-naruto-six-paths": {
+    "name": "Naruto Six Paths",
+    "baseName": "Naruto Uzumaki",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": "Six Paths Sage Mode",
+    "formAliases": [
+      "Six Paths Sage Mode",
+      "Six Paths",
+      "Sage of Six Paths"
+    ],
+    "queries": [
+      "Naruto Uzumaki Six Paths Sage Mode",
+      "Naruto Uzumaki Six Paths",
+      "Naruto Uzumaki Sage of Six Paths",
+      "Naruto Six Paths"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-sasuke-rinnegan": {
+    "name": "Sasuke Rinnegan",
+    "baseName": "Sasuke Uchiha",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": "Rinnegan",
+    "formAliases": [
+      "Rinnegan",
+      "Six Paths"
+    ],
+    "queries": [
+      "Sasuke Uchiha Rinnegan",
+      "Sasuke Uchiha Six Paths",
+      "Sasuke Rinnegan"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kaguya-otsutsuki": {
+    "name": "Kaguya Otsutsuki",
+    "baseName": "Kaguya Otsutsuki",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kaguya Otsutsuki"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-madara-ten-tails": {
+    "name": "Madara Ten Tails",
+    "baseName": "Madara Uchiha",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": "Ten-Tails Jinchuriki",
+    "formAliases": [
+      "Ten-Tails Jinchuriki",
+      "Ten Tails",
+      "Juubi"
+    ],
+    "queries": [
+      "Madara Uchiha Ten-Tails Jinchuriki",
+      "Madara Uchiha Ten Tails",
+      "Madara Uchiha Juubi",
+      "Madara Ten Tails"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-obito-ten-tails": {
+    "name": "Obito Ten Tails",
+    "baseName": "Obito Uchiha",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": "Ten-Tails Jinchuriki",
+    "formAliases": [
+      "Ten-Tails Jinchuriki",
+      "Ten Tails",
+      "Juubi"
+    ],
+    "queries": [
+      "Obito Uchiha Ten-Tails Jinchuriki",
+      "Obito Uchiha Ten Tails",
+      "Obito Uchiha Juubi",
+      "Obito Ten Tails"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-might-guy-8-gates": {
+    "name": "Might Guy 8 Gates",
+    "baseName": "Might Guy",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": "Eight Gates",
+    "formAliases": [
+      "Eight Gates",
+      "Eighth Gate",
+      "Gate of Death"
+    ],
+    "queries": [
+      "Might Guy Eight Gates",
+      "Might Guy Eighth Gate",
+      "Might Guy Gate of Death",
+      "Might Guy 8 Gates"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-itachi-uchiha": {
+    "name": "Itachi Uchiha",
+    "baseName": "Itachi Uchiha",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Itachi Uchiha"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-minato-namikaze": {
+    "name": "Minato Namikaze",
+    "baseName": "Minato Namikaze",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Minato Namikaze"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-hashirama-senju": {
+    "name": "Hashirama Senju",
+    "baseName": "Hashirama Senju",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Hashirama Senju"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-boruto-uzuhiko": {
+    "name": "Boruto Uzuhiko",
+    "baseName": "Boruto Uzumaki",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Boruto Uzumaki",
+      "Boruto Uzuhiko"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kawaki": {
+    "name": "Kawaki",
+    "baseName": "Kawaki",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kawaki"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-isshiki-otsutsuki": {
+    "name": "Isshiki Otsutsuki",
+    "baseName": "Isshiki Otsutsuki",
+    "franchise": "Naruto",
+    "mediaHints": [
+      "Naruto",
+      "Boruto"
+    ],
+    "fandomDomain": "naruto.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Isshiki Otsutsuki"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-monkey-d-luffy-gear-5": {
+    "name": "Monkey D. Luffy Gear 5",
+    "baseName": "Monkey D. Luffy",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": "Gear 5",
+    "formAliases": [
+      "Gear 5",
+      "Gear Fifth",
+      "Nika"
+    ],
+    "queries": [
+      "Monkey D. Luffy Gear 5",
+      "Monkey D. Luffy Gear Fifth",
+      "Monkey D. Luffy Nika"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-shanks": {
+    "name": "Shanks",
+    "baseName": "Shanks",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Shanks"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kaido": {
+    "name": "Kaido",
+    "baseName": "Kaido",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kaido"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-blackbeard": {
+    "name": "Blackbeard",
+    "baseName": "Marshall D. Teach",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Marshall D. Teach",
+      "Blackbeard"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-gol-d-roger": {
+    "name": "Gol D. Roger",
+    "baseName": "Gol D. Roger",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Gol D. Roger"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-whitebeard-prime": {
+    "name": "Whitebeard Prime",
+    "baseName": "Edward Newgate",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": "Prime",
+    "formAliases": [
+      "Prime",
+      "Young Whitebeard",
+      "Young Edward Newgate"
+    ],
+    "queries": [
+      "Edward Newgate Prime",
+      "Edward Newgate Young Whitebeard",
+      "Edward Newgate Young Edward Newgate",
+      "Whitebeard Prime"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-roronoa-zoro": {
+    "name": "Roronoa Zoro",
+    "baseName": "Roronoa Zoro",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Roronoa Zoro"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-sanji": {
+    "name": "Sanji",
+    "baseName": "Sanji",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Sanji"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-big-mom": {
+    "name": "Big Mom",
+    "baseName": "Charlotte Linlin",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Charlotte Linlin",
+      "Big Mom"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-akainu": {
+    "name": "Akainu",
+    "baseName": "Sakazuki",
+    "franchise": "One Piece",
+    "mediaHints": [
+      "One Piece"
+    ],
+    "fandomDomain": "onepiece.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Sakazuki",
+      "Akainu"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-ichigo-kurosaki-tybw": {
+    "name": "Ichigo Kurosaki TYBW",
+    "baseName": "Ichigo Kurosaki",
+    "franchise": "Bleach",
+    "mediaHints": [
+      "Bleach"
+    ],
+    "fandomDomain": "bleach.fandom.com",
+    "form": "Thousand-Year Blood War",
+    "formAliases": [
+      "TYBW",
+      "Thousand Year Blood War",
+      "True Bankai"
+    ],
+    "queries": [
+      "Ichigo Kurosaki TYBW",
+      "Ichigo Kurosaki Thousand Year Blood War",
+      "Ichigo Kurosaki True Bankai"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-aizen-sosuke": {
+    "name": "Aizen Sosuke",
+    "baseName": "Sosuke Aizen",
+    "franchise": "Bleach",
+    "mediaHints": [
+      "Bleach"
+    ],
+    "fandomDomain": "bleach.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Sosuke Aizen",
+      "Aizen Sosuke"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-yhwach": {
+    "name": "Yhwach",
+    "baseName": "Yhwach",
+    "franchise": "Bleach",
+    "mediaHints": [
+      "Bleach"
+    ],
+    "fandomDomain": "bleach.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Yhwach"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kenpachi-zaraki": {
+    "name": "Kenpachi Zaraki",
+    "baseName": "Kenpachi Zaraki",
+    "franchise": "Bleach",
+    "mediaHints": [
+      "Bleach"
+    ],
+    "fandomDomain": "bleach.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kenpachi Zaraki"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-genryusai-yamamoto": {
+    "name": "Genryusai Yamamoto",
+    "baseName": "Genryusai Shigekuni Yamamoto",
+    "franchise": "Bleach",
+    "mediaHints": [
+      "Bleach"
+    ],
+    "fandomDomain": "bleach.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Genryusai Shigekuni Yamamoto",
+      "Genryusai Yamamoto"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-uryu-ishida": {
+    "name": "Uryu Ishida",
+    "baseName": "Uryu Ishida",
+    "franchise": "Bleach",
+    "mediaHints": [
+      "Bleach"
+    ],
+    "fandomDomain": "bleach.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Uryu Ishida"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-rukia-kuchiki": {
+    "name": "Rukia Kuchiki",
+    "baseName": "Rukia Kuchiki",
+    "franchise": "Bleach",
+    "mediaHints": [
+      "Bleach"
+    ],
+    "fandomDomain": "bleach.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Rukia Kuchiki"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-renji-abarai": {
+    "name": "Renji Abarai",
+    "baseName": "Renji Abarai",
+    "franchise": "Bleach",
+    "mediaHints": [
+      "Bleach"
+    ],
+    "fandomDomain": "bleach.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Renji Abarai"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-asta-devil-union": {
+    "name": "Asta Devil Union",
+    "baseName": "Asta",
+    "franchise": "Black Clover",
+    "mediaHints": [
+      "Black Clover"
+    ],
+    "fandomDomain": "blackclover.fandom.com",
+    "form": "Devil Union",
+    "formAliases": [
+      "Devil Union",
+      "Union Mode"
+    ],
+    "queries": [
+      "Asta Devil Union",
+      "Asta Union Mode"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-yuno-spirit-dive": {
+    "name": "Yuno Spirit Dive",
+    "baseName": "Yuno Grinberryall",
+    "franchise": "Black Clover",
+    "mediaHints": [
+      "Black Clover"
+    ],
+    "fandomDomain": "blackclover.fandom.com",
+    "form": "Spirit Dive",
+    "formAliases": [
+      "Spirit Dive",
+      "Spirit of Zephyr"
+    ],
+    "queries": [
+      "Yuno Grinberryall Spirit Dive",
+      "Yuno Grinberryall Spirit of Zephyr",
+      "Yuno Spirit Dive"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-lucius-zogratis": {
+    "name": "Lucius Zogratis",
+    "baseName": "Lucius Zogratis",
+    "franchise": "Black Clover",
+    "mediaHints": [
+      "Black Clover"
+    ],
+    "fandomDomain": "blackclover.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Lucius Zogratis"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-julius-novachrono": {
+    "name": "Julius Novachrono",
+    "baseName": "Julius Novachrono",
+    "franchise": "Black Clover",
+    "mediaHints": [
+      "Black Clover"
+    ],
+    "fandomDomain": "blackclover.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Julius Novachrono"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-mereoleona-vermillion": {
+    "name": "Mereoleona Vermillion",
+    "baseName": "Mereoleona Vermillion",
+    "franchise": "Black Clover",
+    "mediaHints": [
+      "Black Clover"
+    ],
+    "fandomDomain": "blackclover.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Mereoleona Vermillion"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-meliodas-demon-king": {
+    "name": "Meliodas Demon King",
+    "baseName": "Meliodas",
+    "franchise": "The Seven Deadly Sins",
+    "mediaHints": [
+      "Nanatsu no Taizai",
+      "The Seven Deadly Sins"
+    ],
+    "fandomDomain": "nanatsu-no-taizai.fandom.com",
+    "form": "Demon King",
+    "formAliases": [
+      "Demon King",
+      "Demon King Meliodas"
+    ],
+    "queries": [
+      "Meliodas Demon King",
+      "Meliodas Demon King Meliodas"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-escanor-the-one-ultimate": {
+    "name": "Escanor The One Ultimate",
+    "baseName": "Escanor",
+    "franchise": "The Seven Deadly Sins",
+    "mediaHints": [
+      "Nanatsu no Taizai",
+      "The Seven Deadly Sins"
+    ],
+    "fandomDomain": "nanatsu-no-taizai.fandom.com",
+    "form": "The One Ultimate",
+    "formAliases": [
+      "The One Ultimate",
+      "Ultimate One",
+      "The One"
+    ],
+    "queries": [
+      "Escanor The One Ultimate",
+      "Escanor Ultimate One",
+      "Escanor The One"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-ban-purgatory": {
+    "name": "Ban Purgatory",
+    "baseName": "Ban",
+    "franchise": "The Seven Deadly Sins",
+    "mediaHints": [
+      "Nanatsu no Taizai",
+      "The Seven Deadly Sins"
+    ],
+    "fandomDomain": "nanatsu-no-taizai.fandom.com",
+    "form": "Purgatory",
+    "formAliases": [
+      "Purgatory",
+      "Post Purgatory"
+    ],
+    "queries": [
+      "Ban Purgatory",
+      "Ban Post Purgatory"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-king-full-wings": {
+    "name": "King Full Wings",
+    "baseName": "King",
+    "franchise": "The Seven Deadly Sins",
+    "mediaHints": [
+      "Nanatsu no Taizai",
+      "The Seven Deadly Sins"
+    ],
+    "fandomDomain": "nanatsu-no-taizai.fandom.com",
+    "form": "Full Wings",
+    "formAliases": [
+      "Full Wings",
+      "True Spirit Spear",
+      "Full Grown Wings"
+    ],
+    "queries": [
+      "King Full Wings",
+      "King True Spirit Spear",
+      "King Full Grown Wings"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-mael": {
+    "name": "Mael",
+    "baseName": "Mael",
+    "franchise": "The Seven Deadly Sins",
+    "mediaHints": [
+      "Nanatsu no Taizai",
+      "The Seven Deadly Sins"
+    ],
+    "fandomDomain": "nanatsu-no-taizai.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Mael"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-giorno-giovanna-ger": {
+    "name": "Giorno Giovanna GER",
+    "baseName": "Giorno Giovanna",
+    "franchise": "JoJo's Bizarre Adventure",
+    "mediaHints": [
+      "JoJo's Bizarre Adventure",
+      "JoJo no Kimyou na Bouken"
+    ],
+    "fandomDomain": "jojo.fandom.com",
+    "form": "Gold Experience Requiem",
+    "formAliases": [
+      "Gold Experience Requiem",
+      "GER",
+      "Requiem"
+    ],
+    "queries": [
+      "Giorno Giovanna Gold Experience Requiem",
+      "Giorno Giovanna GER",
+      "Giorno Giovanna Requiem"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-dio-over-heaven": {
+    "name": "Dio Over Heaven",
+    "baseName": "DIO",
+    "franchise": "JoJo's Bizarre Adventure",
+    "mediaHints": [
+      "JoJo's Bizarre Adventure",
+      "JoJo no Kimyou na Bouken"
+    ],
+    "fandomDomain": "jojo.fandom.com",
+    "form": "Over Heaven",
+    "formAliases": [
+      "Over Heaven",
+      "Heaven Ascension",
+      "The World Over Heaven"
+    ],
+    "queries": [
+      "DIO Over Heaven",
+      "DIO Heaven Ascension",
+      "DIO The World Over Heaven",
+      "Dio Over Heaven"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-jotaro-kujo": {
+    "name": "Jotaro Kujo",
+    "baseName": "Jotaro Kujo",
+    "franchise": "JoJo's Bizarre Adventure",
+    "mediaHints": [
+      "JoJo's Bizarre Adventure",
+      "JoJo no Kimyou na Bouken"
+    ],
+    "fandomDomain": "jojo.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Jotaro Kujo"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-johnny-joestar-tusk-act-4": {
+    "name": "Johnny Joestar Tusk Act 4",
+    "baseName": "Johnny Joestar",
+    "franchise": "JoJo's Bizarre Adventure",
+    "mediaHints": [
+      "JoJo's Bizarre Adventure",
+      "JoJo no Kimyou na Bouken"
+    ],
+    "fandomDomain": "jojo.fandom.com",
+    "form": "Tusk ACT4",
+    "formAliases": [
+      "Tusk ACT4",
+      "Tusk Act 4",
+      "ACT4"
+    ],
+    "queries": [
+      "Johnny Joestar Tusk ACT4",
+      "Johnny Joestar Tusk Act 4",
+      "Johnny Joestar ACT4"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-funny-valentine-d4c-love-train": {
+    "name": "Funny Valentine D4C Love Train",
+    "baseName": "Funny Valentine",
+    "franchise": "JoJo's Bizarre Adventure",
+    "mediaHints": [
+      "JoJo's Bizarre Adventure",
+      "JoJo no Kimyou na Bouken"
+    ],
+    "fandomDomain": "jojo.fandom.com",
+    "form": "D4C Love Train",
+    "formAliases": [
+      "D4C Love Train",
+      "Love Train"
+    ],
+    "queries": [
+      "Funny Valentine D4C Love Train",
+      "Funny Valentine Love Train"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-enrico-pucci-made-in-heaven": {
+    "name": "Enrico Pucci Made in Heaven",
+    "baseName": "Enrico Pucci",
+    "franchise": "JoJo's Bizarre Adventure",
+    "mediaHints": [
+      "JoJo's Bizarre Adventure",
+      "JoJo no Kimyou na Bouken"
+    ],
+    "fandomDomain": "jojo.fandom.com",
+    "form": "Made in Heaven",
+    "formAliases": [
+      "Made in Heaven",
+      "Maiden Heaven"
+    ],
+    "queries": [
+      "Enrico Pucci Made in Heaven",
+      "Enrico Pucci Maiden Heaven"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-gon-adult": {
+    "name": "Gon Adult",
+    "baseName": "Gon Freecss",
+    "franchise": "Hunter x Hunter",
+    "mediaHints": [
+      "Hunter x Hunter"
+    ],
+    "fandomDomain": "hunterxhunter.fandom.com",
+    "form": "Adult Transformation",
+    "formAliases": [
+      "Adult Gon",
+      "Transformation",
+      "Adult"
+    ],
+    "queries": [
+      "Gon Freecss Adult Gon",
+      "Gon Freecss Transformation",
+      "Gon Freecss Adult",
+      "Gon Adult"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-meruem-post-rose": {
+    "name": "Meruem Post-Rose",
+    "baseName": "Meruem",
+    "franchise": "Hunter x Hunter",
+    "mediaHints": [
+      "Hunter x Hunter"
+    ],
+    "fandomDomain": "hunterxhunter.fandom.com",
+    "form": "Post-Rose",
+    "formAliases": [
+      "Post Rose",
+      "Post-Rose",
+      "Rose"
+    ],
+    "queries": [
+      "Meruem Post Rose",
+      "Meruem Post-Rose",
+      "Meruem Rose"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-killua-godspeed": {
+    "name": "Killua Godspeed",
+    "baseName": "Killua Zoldyck",
+    "franchise": "Hunter x Hunter",
+    "mediaHints": [
+      "Hunter x Hunter"
+    ],
+    "fandomDomain": "hunterxhunter.fandom.com",
+    "form": "Godspeed",
+    "formAliases": [
+      "Godspeed",
+      "Kanmuru"
+    ],
+    "queries": [
+      "Killua Zoldyck Godspeed",
+      "Killua Zoldyck Kanmuru",
+      "Killua Godspeed"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-isaac-netero": {
+    "name": "Isaac Netero",
+    "baseName": "Isaac Netero",
+    "franchise": "Hunter x Hunter",
+    "mediaHints": [
+      "Hunter x Hunter"
+    ],
+    "fandomDomain": "hunterxhunter.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Isaac Netero"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-chrollo-lucilfer": {
+    "name": "Chrollo Lucilfer",
+    "baseName": "Chrollo Lucilfer",
+    "franchise": "Hunter x Hunter",
+    "mediaHints": [
+      "Hunter x Hunter"
+    ],
+    "fandomDomain": "hunterxhunter.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Chrollo Lucilfer"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-eren-founding-titan": {
+    "name": "Eren Founding Titan",
+    "baseName": "Eren Yeager",
+    "franchise": "Attack on Titan",
+    "mediaHints": [
+      "Shingeki no Kyojin",
+      "Attack on Titan"
+    ],
+    "fandomDomain": "attackontitan.fandom.com",
+    "form": "Founding Titan",
+    "formAliases": [
+      "Founding Titan",
+      "Doomsday Titan"
+    ],
+    "queries": [
+      "Eren Yeager Founding Titan",
+      "Eren Yeager Doomsday Titan",
+      "Eren Founding Titan"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-levi-ackerman": {
+    "name": "Levi Ackerman",
+    "baseName": "Levi Ackerman",
+    "franchise": "Attack on Titan",
+    "mediaHints": [
+      "Shingeki no Kyojin",
+      "Attack on Titan"
+    ],
+    "fandomDomain": "attackontitan.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Levi Ackerman"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-mikasa-ackerman": {
+    "name": "Mikasa Ackerman",
+    "baseName": "Mikasa Ackerman",
+    "franchise": "Attack on Titan",
+    "mediaHints": [
+      "Shingeki no Kyojin",
+      "Attack on Titan"
+    ],
+    "fandomDomain": "attackontitan.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Mikasa Ackerman"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-rimuru-tempest": {
+    "name": "Rimuru Tempest",
+    "baseName": "Rimuru Tempest",
+    "franchise": "That Time I Got Reincarnated as a Slime",
+    "mediaHints": [
+      "Tensei shitara Slime Datta Ken",
+      "That Time I Got Reincarnated as a Slime"
+    ],
+    "fandomDomain": "tensura.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Rimuru Tempest"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-anos-voldigoad": {
+    "name": "Anos Voldigoad",
+    "baseName": "Anos Voldigoad",
+    "franchise": "The Misfit of Demon King Academy",
+    "mediaHints": [
+      "Maou Gakuin no Futekigousha",
+      "The Misfit of Demon King Academy"
+    ],
+    "fandomDomain": "maou-gakuin.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Anos Voldigoad"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-ainz-ooal-gown": {
+    "name": "Ainz Ooal Gown",
+    "baseName": "Ainz Ooal Gown",
+    "franchise": "Overlord",
+    "mediaHints": [
+      "Overlord"
+    ],
+    "fandomDomain": "overlordmaruyama.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Ainz Ooal Gown"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kirito": {
+    "name": "Kirito",
+    "baseName": "Kirito",
+    "franchise": "Sword Art Online",
+    "mediaHints": [
+      "Sword Art Online"
+    ],
+    "fandomDomain": "swordartonline.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kirito"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-sung-jinwoo": {
+    "name": "Sung Jinwoo",
+    "baseName": "Sung Jinwoo",
+    "franchise": "Solo Leveling",
+    "mediaHints": [
+      "Solo Leveling",
+      "Ore dake Level Up na Ken"
+    ],
+    "fandomDomain": "solo-leveling.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Sung Jinwoo"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-mob-100": {
+    "name": "Mob 100%",
+    "baseName": "Shigeo Kageyama",
+    "franchise": "Mob Psycho 100",
+    "mediaHints": [
+      "Mob Psycho 100"
+    ],
+    "fandomDomain": "mob-psycho-100.fandom.com",
+    "form": "100%",
+    "formAliases": [
+      "100%",
+      "Hundred Percent",
+      "Mob 100"
+    ],
+    "queries": [
+      "Shigeo Kageyama 100%",
+      "Shigeo Kageyama Hundred Percent",
+      "Shigeo Kageyama Mob 100",
+      "Mob 100%"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-saiki-kusuo": {
+    "name": "Saiki Kusuo",
+    "baseName": "Kusuo Saiki",
+    "franchise": "The Disastrous Life of Saiki K.",
+    "mediaHints": [
+      "Saiki Kusuo no Psi-nan",
+      "The Disastrous Life of Saiki K."
+    ],
+    "fandomDomain": "saikikusuo-no-psinan.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kusuo Saiki",
+      "Saiki Kusuo"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-alucard-hellsing": {
+    "name": "Alucard Hellsing",
+    "baseName": "Alucard",
+    "franchise": "Hellsing",
+    "mediaHints": [
+      "Hellsing"
+    ],
+    "fandomDomain": "hellsing.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Alucard",
+      "Alucard Hellsing"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-goku-ssb-kaioken": {
+    "name": "Goku Super Saiyan Blue Kaioken",
+    "baseName": "Son Goku",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Super Saiyan Blue Kaioken",
+    "formAliases": [
+      "Super Saiyan Blue Kaioken",
+      "SSB Kaioken",
+      "Super Saiyan God SS Kaioken"
+    ],
+    "queries": [
+      "Son Goku Super Saiyan Blue Kaioken",
+      "Son Goku SSB Kaioken",
+      "Son Goku Super Saiyan God SS Kaioken",
+      "Goku Super Saiyan Blue Kaioken"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-vegeta-ssbe": {
+    "name": "Vegeta Super Saiyan Blue Evolved",
+    "baseName": "Vegeta",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Super Saiyan Blue Evolved",
+    "formAliases": [
+      "Super Saiyan Blue Evolved",
+      "Blue Evolution",
+      "SSBE"
+    ],
+    "queries": [
+      "Vegeta Super Saiyan Blue Evolved",
+      "Vegeta Blue Evolution",
+      "Vegeta SSBE"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-future-trunks-rage": {
+    "name": "Future Trunks Super Saiyan Rage",
+    "baseName": "Future Trunks",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Super Saiyan Rage",
+    "formAliases": [
+      "Super Saiyan Rage",
+      "Rage"
+    ],
+    "queries": [
+      "Future Trunks Super Saiyan Rage",
+      "Future Trunks Rage"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kefla-ss2": {
+    "name": "Kefla Super Saiyan 2",
+    "baseName": "Kefla",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Super Saiyan 2",
+    "formAliases": [
+      "Super Saiyan 2",
+      "SSJ2"
+    ],
+    "queries": [
+      "Kefla Super Saiyan 2",
+      "Kefla SSJ2"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-hit": {
+    "name": "Hit",
+    "baseName": "Hit",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Hit"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-toppo-god": {
+    "name": "Toppo God of Destruction",
+    "baseName": "Toppo",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "God of Destruction Mode",
+    "formAliases": [
+      "God of Destruction",
+      "Hakaishin",
+      "Destruction Mode"
+    ],
+    "queries": [
+      "Toppo God of Destruction",
+      "Toppo Hakaishin",
+      "Toppo Destruction Mode"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-fused-zamasu": {
+    "name": "Fused Zamasu",
+    "baseName": "Fused Zamasu",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Fused Zamasu"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-goku-black-rose": {
+    "name": "Goku Black Super Saiyan Rosé",
+    "baseName": "Goku Black",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Super Saiyan Rosé",
+    "formAliases": [
+      "Super Saiyan Rose",
+      "Super Saiyan Rosé",
+      "Rose"
+    ],
+    "queries": [
+      "Goku Black Super Saiyan Rose",
+      "Goku Black Super Saiyan Rosé",
+      "Goku Black Rose"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-janemba": {
+    "name": "Janemba",
+    "baseName": "Janemba",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Janemba"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-cooler-final-form": {
+    "name": "Cooler Final Form",
+    "baseName": "Cooler",
+    "franchise": "Dragon Ball",
+    "mediaHints": [
+      "Dragon Ball",
+      "Dragon Ball Super",
+      "Dragon Ball Z"
+    ],
+    "fandomDomain": "dragonball.fandom.com",
+    "form": "Final Form",
+    "formAliases": [
+      "Final Form",
+      "Fifth Form"
+    ],
+    "queries": [
+      "Cooler Final Form",
+      "Cooler Fifth Form"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-natsu-dragon-force": {
+    "name": "Natsu Dragneel Dragon Force",
+    "baseName": "Natsu Dragneel",
+    "franchise": "Fairy Tail",
+    "mediaHints": [
+      "Fairy Tail"
+    ],
+    "fandomDomain": "fairytail.fandom.com",
+    "form": "Dragon Force",
+    "formAliases": [
+      "Dragon Force"
+    ],
+    "queries": [
+      "Natsu Dragneel Dragon Force"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-acnologia": {
+    "name": "Acnologia",
+    "baseName": "Acnologia",
+    "franchise": "Fairy Tail",
+    "mediaHints": [
+      "Fairy Tail"
+    ],
+    "fandomDomain": "fairytail.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Acnologia"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-erza-scarlet": {
+    "name": "Erza Scarlet",
+    "baseName": "Erza Scarlet",
+    "franchise": "Fairy Tail",
+    "mediaHints": [
+      "Fairy Tail"
+    ],
+    "fandomDomain": "fairytail.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Erza Scarlet"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-gray-fullbuster": {
+    "name": "Gray Fullbuster",
+    "baseName": "Gray Fullbuster",
+    "franchise": "Fairy Tail",
+    "mediaHints": [
+      "Fairy Tail"
+    ],
+    "fandomDomain": "fairytail.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Gray Fullbuster"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-zeref-dragneel": {
+    "name": "Zeref Dragneel",
+    "baseName": "Zeref Dragneel",
+    "franchise": "Fairy Tail",
+    "mediaHints": [
+      "Fairy Tail"
+    ],
+    "fandomDomain": "fairytail.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Zeref Dragneel"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-yusuke-urameshi": {
+    "name": "Yusuke Urameshi",
+    "baseName": "Yusuke Urameshi",
+    "franchise": "Yu Yu Hakusho",
+    "mediaHints": [
+      "Yu Yu Hakusho"
+    ],
+    "fandomDomain": "yuyuhakusho.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Yusuke Urameshi"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-hiei": {
+    "name": "Hiei",
+    "baseName": "Hiei",
+    "franchise": "Yu Yu Hakusho",
+    "mediaHints": [
+      "Yu Yu Hakusho"
+    ],
+    "fandomDomain": "yuyuhakusho.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Hiei"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-kurama-yoko": {
+    "name": "Kurama Yoko",
+    "baseName": "Kurama",
+    "franchise": "Yu Yu Hakusho",
+    "mediaHints": [
+      "Yu Yu Hakusho"
+    ],
+    "fandomDomain": "yuyuhakusho.fandom.com",
+    "form": "Yoko Kurama",
+    "formAliases": [
+      "Yoko Kurama",
+      "Youko Kurama",
+      "Demon Fox"
+    ],
+    "queries": [
+      "Kurama Yoko Kurama",
+      "Kurama Youko Kurama",
+      "Kurama Demon Fox",
+      "Kurama Yoko"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-sensui": {
+    "name": "Shinobu Sensui",
+    "baseName": "Shinobu Sensui",
+    "franchise": "Yu Yu Hakusho",
+    "mediaHints": [
+      "Yu Yu Hakusho"
+    ],
+    "fandomDomain": "yuyuhakusho.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Shinobu Sensui"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-raizen": {
+    "name": "Raizen",
+    "baseName": "Raizen",
+    "franchise": "Yu Yu Hakusho",
+    "mediaHints": [
+      "Yu Yu Hakusho"
+    ],
+    "fandomDomain": "yuyuhakusho.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Raizen"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-simon-ttgl": {
+    "name": "Simon Tengen Toppa Gurren Lagann",
+    "baseName": "Simon",
+    "franchise": "Gurren Lagann",
+    "mediaHints": [
+      "Tengen Toppa Gurren Lagann",
+      "Gurren Lagann"
+    ],
+    "fandomDomain": "gurrenlagann.fandom.com",
+    "form": "Tengen Toppa Gurren Lagann",
+    "formAliases": [
+      "Tengen Toppa Gurren Lagann",
+      "TTGL"
+    ],
+    "queries": [
+      "Simon Tengen Toppa Gurren Lagann",
+      "Simon TTGL"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-anti-spiral": {
+    "name": "Anti-Spiral",
+    "baseName": "Anti-Spiral",
+    "franchise": "Gurren Lagann",
+    "mediaHints": [
+      "Tengen Toppa Gurren Lagann",
+      "Gurren Lagann"
+    ],
+    "fandomDomain": "gurrenlagann.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Anti-Spiral"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-ryuko-kisaragi": {
+    "name": "Ryuko Matoi Kisaragi",
+    "baseName": "Ryuko Matoi",
+    "franchise": "Kill la Kill",
+    "mediaHints": [
+      "Kill la Kill"
+    ],
+    "fandomDomain": "kill-la-kill.fandom.com",
+    "form": "Kisaragi",
+    "formAliases": [
+      "Kisaragi",
+      "Senketsu Kisaragi"
+    ],
+    "queries": [
+      "Ryuko Matoi Kisaragi",
+      "Ryuko Matoi Senketsu Kisaragi"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-satsuki-junketsu": {
+    "name": "Satsuki Kiryuin Junketsu",
+    "baseName": "Satsuki Kiryuin",
+    "franchise": "Kill la Kill",
+    "mediaHints": [
+      "Kill la Kill"
+    ],
+    "fandomDomain": "kill-la-kill.fandom.com",
+    "form": "Junketsu",
+    "formAliases": [
+      "Junketsu"
+    ],
+    "queries": [
+      "Satsuki Kiryuin Junketsu"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-ragyo": {
+    "name": "Ragyo Kiryuin",
+    "baseName": "Ragyo Kiryuin",
+    "franchise": "Kill la Kill",
+    "mediaHints": [
+      "Kill la Kill"
+    ],
+    "fandomDomain": "kill-la-kill.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Ragyo Kiryuin"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-denji": {
+    "name": "Denji Chainsaw Man",
+    "baseName": "Denji",
+    "franchise": "Chainsaw Man",
+    "mediaHints": [
+      "Chainsaw Man"
+    ],
+    "fandomDomain": "chainsaw-man.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Denji",
+      "Denji Chainsaw Man"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-makima": {
+    "name": "Makima",
+    "baseName": "Makima",
+    "franchise": "Chainsaw Man",
+    "mediaHints": [
+      "Chainsaw Man"
+    ],
+    "fandomDomain": "chainsaw-man.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Makima"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-power-blood-fiend": {
+    "name": "Power Blood Fiend",
+    "baseName": "Power",
+    "franchise": "Chainsaw Man",
+    "mediaHints": [
+      "Chainsaw Man"
+    ],
+    "fandomDomain": "chainsaw-man.fandom.com",
+    "form": "Blood Fiend",
+    "formAliases": [
+      "Blood Fiend",
+      "Fiend"
+    ],
+    "queries": [
+      "Power Blood Fiend",
+      "Power Fiend"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-aki-hayakawa": {
+    "name": "Aki Hayakawa",
+    "baseName": "Aki Hayakawa",
+    "franchise": "Chainsaw Man",
+    "mediaHints": [
+      "Chainsaw Man"
+    ],
+    "fandomDomain": "chainsaw-man.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Aki Hayakawa"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-ken-kaneki": {
+    "name": "Ken Kaneki",
+    "baseName": "Ken Kaneki",
+    "franchise": "Tokyo Ghoul",
+    "mediaHints": [
+      "Tokyo Ghoul"
+    ],
+    "fandomDomain": "tokyoghoul.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Ken Kaneki"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-arima-kishou": {
+    "name": "Arima Kishou",
+    "baseName": "Kishou Arima",
+    "franchise": "Tokyo Ghoul",
+    "mediaHints": [
+      "Tokyo Ghoul"
+    ],
+    "fandomDomain": "tokyoghoul.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Kishou Arima",
+      "Arima Kishou"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-eto-yoshimura": {
+    "name": "Eto Yoshimura",
+    "baseName": "Eto Yoshimura",
+    "franchise": "Tokyo Ghoul",
+    "mediaHints": [
+      "Tokyo Ghoul"
+    ],
+    "fandomDomain": "tokyoghoul.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Eto Yoshimura"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-accelerator": {
+    "name": "Accelerator",
+    "baseName": "Accelerator",
+    "franchise": "A Certain Magical Index",
+    "mediaHints": [
+      "Toaru Majutsu no Index",
+      "A Certain Magical Index"
+    ],
+    "fandomDomain": "toarumajutsunoindex.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Accelerator"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-misaka-mikoto": {
+    "name": "Misaka Mikoto",
+    "baseName": "Mikoto Misaka",
+    "franchise": "A Certain Magical Index",
+    "mediaHints": [
+      "Toaru Majutsu no Index",
+      "A Certain Magical Index"
+    ],
+    "fandomDomain": "toarumajutsunoindex.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Mikoto Misaka",
+      "Misaka Mikoto"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-touma-kamijou": {
+    "name": "Touma Kamijou",
+    "baseName": "Touma Kamijou",
+    "franchise": "A Certain Magical Index",
+    "mediaHints": [
+      "Toaru Majutsu no Index",
+      "A Certain Magical Index"
+    ],
+    "fandomDomain": "toarumajutsunoindex.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Touma Kamijou"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-sinbad": {
+    "name": "Sinbad",
+    "baseName": "Sinbad",
+    "franchise": "Magi",
+    "mediaHints": [
+      "Magi",
+      "Magi: The Labyrinth of Magic"
+    ],
+    "fandomDomain": "magi.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Sinbad"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-aladdin": {
+    "name": "Aladdin",
+    "baseName": "Aladdin",
+    "franchise": "Magi",
+    "mediaHints": [
+      "Magi",
+      "Magi: The Labyrinth of Magic"
+    ],
+    "fandomDomain": "magi.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Aladdin"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-alibaba-saluja": {
+    "name": "Alibaba Saluja",
+    "baseName": "Alibaba Saluja",
+    "franchise": "Magi",
+    "mediaHints": [
+      "Magi",
+      "Magi: The Labyrinth of Magic"
+    ],
+    "fandomDomain": "magi.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Alibaba Saluja"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-hakuryuu-ren": {
+    "name": "Hakuryuu Ren",
+    "baseName": "Hakuryuu Ren",
+    "franchise": "Magi",
+    "mediaHints": [
+      "Magi",
+      "Magi: The Labyrinth of Magic"
+    ],
+    "fandomDomain": "magi.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Hakuryuu Ren"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-sailor-moon-eternal": {
+    "name": "Sailor Moon Eternal",
+    "baseName": "Usagi Tsukino",
+    "franchise": "Sailor Moon",
+    "mediaHints": [
+      "Bishoujo Senshi Sailor Moon",
+      "Sailor Moon"
+    ],
+    "fandomDomain": "sailormoon.fandom.com",
+    "form": "Eternal Sailor Moon",
+    "formAliases": [
+      "Eternal Sailor Moon",
+      "Eternal"
+    ],
+    "queries": [
+      "Usagi Tsukino Eternal Sailor Moon",
+      "Usagi Tsukino Eternal",
+      "Sailor Moon Eternal"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-seiya-god-cloth": {
+    "name": "Pegasus Seiya God Cloth",
+    "baseName": "Pegasus Seiya",
+    "franchise": "Saint Seiya",
+    "mediaHints": [
+      "Saint Seiya"
+    ],
+    "fandomDomain": "saintseiya.fandom.com",
+    "form": "God Cloth",
+    "formAliases": [
+      "God Cloth"
+    ],
+    "queries": [
+      "Pegasus Seiya God Cloth"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-athena-saori": {
+    "name": "Athena Saori",
+    "baseName": "Saori Kido",
+    "franchise": "Saint Seiya",
+    "mediaHints": [
+      "Saint Seiya"
+    ],
+    "fandomDomain": "saintseiya.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Saori Kido",
+      "Athena Saori"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-hades": {
+    "name": "Hades",
+    "baseName": "Hades",
+    "franchise": "Saint Seiya",
+    "mediaHints": [
+      "Saint Seiya"
+    ],
+    "fandomDomain": "saintseiya.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Hades"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-koro-sensei": {
+    "name": "Koro-sensei",
+    "baseName": "Koro-sensei",
+    "franchise": "Assassination Classroom",
+    "mediaHints": [
+      "Ansatsu Kyoushitsu",
+      "Assassination Classroom"
+    ],
+    "fandomDomain": "ansatsukyoshitsu.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Koro-sensei"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-esdeath": {
+    "name": "Esdeath",
+    "baseName": "Esdeath",
+    "franchise": "Akame ga Kill!",
+    "mediaHints": [
+      "Akame ga Kill"
+    ],
+    "fandomDomain": "akamegakill.fandom.com",
+    "form": null,
+    "formAliases": [],
+    "queries": [
+      "Esdeath"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-shinra-banshoman": {
+    "name": "Shinra Kusakabe Banshoman",
+    "baseName": "Shinra Kusakabe",
+    "franchise": "Fire Force",
+    "mediaHints": [
+      "Enen no Shouboutai",
+      "Fire Force"
+    ],
+    "fandomDomain": "fire-force.fandom.com",
+    "form": "Shinrabanshoman",
+    "formAliases": [
+      "Shinrabanshoman",
+      "Shinra Banshoman",
+      "Shinrabansho-Man"
+    ],
+    "queries": [
+      "Shinra Kusakabe Shinrabanshoman",
+      "Shinra Kusakabe Shinra Banshoman",
+      "Shinra Kusakabe Shinrabansho-Man",
+      "Shinra Kusakabe Banshoman"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-madoka-ultimate": {
+    "name": "Madoka Kaname Ultimate",
+    "baseName": "Madoka Kaname",
+    "franchise": "Puella Magi Madoka Magica",
+    "mediaHints": [
+      "Mahou Shoujo Madoka Magica",
+      "Puella Magi Madoka Magica"
+    ],
+    "fandomDomain": "madoka.fandom.com",
+    "form": "Ultimate Madoka",
+    "formAliases": [
+      "Ultimate Madoka",
+      "Goddess Madoka",
+      "Law of Cycles"
+    ],
+    "queries": [
+      "Madoka Kaname Ultimate Madoka",
+      "Madoka Kaname Goddess Madoka",
+      "Madoka Kaname Law of Cycles",
+      "Madoka Kaname Ultimate"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-homura-devil": {
+    "name": "Homura Akemi Devil",
+    "baseName": "Homura Akemi",
+    "franchise": "Puella Magi Madoka Magica",
+    "mediaHints": [
+      "Mahou Shoujo Madoka Magica",
+      "Puella Magi Madoka Magica"
+    ],
+    "fandomDomain": "madoka.fandom.com",
+    "form": "Devil Homura",
+    "formAliases": [
+      "Devil Homura",
+      "Akuma Homura",
+      "Demon Homura"
+    ],
+    "queries": [
+      "Homura Akemi Devil Homura",
+      "Homura Akemi Akuma Homura",
+      "Homura Akemi Demon Homura",
+      "Homura Akemi Devil"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-deku-full-cowl": {
+    "name": "Deku Full Cowl 100%",
+    "baseName": "Izuku Midoriya",
+    "franchise": "My Hero Academia",
+    "mediaHints": [
+      "Boku no Hero Academia",
+      "My Hero Academia"
+    ],
+    "fandomDomain": "myheroacademia.fandom.com",
+    "form": "Full Cowl 100%",
+    "formAliases": [
+      "Full Cowl 100",
+      "100 Percent",
+      "One For All 100"
+    ],
+    "queries": [
+      "Izuku Midoriya Full Cowl 100",
+      "Izuku Midoriya 100 Percent",
+      "Izuku Midoriya One For All 100",
+      "Deku Full Cowl 100%"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  },
+  "anime-all-might-prime": {
+    "name": "All Might Prime",
+    "baseName": "All Might",
+    "franchise": "My Hero Academia",
+    "mediaHints": [
+      "Boku no Hero Academia",
+      "My Hero Academia"
+    ],
+    "fandomDomain": "myheroacademia.fandom.com",
+    "form": "Prime",
+    "formAliases": [
+      "Prime All Might",
+      "Young All Might",
+      "Prime"
+    ],
+    "queries": [
+      "All Might Prime All Might",
+      "All Might Young All Might",
+      "All Might Prime"
+    ],
+    "strict": true,
+    "allowGenericWeb": false
+  }
+}
